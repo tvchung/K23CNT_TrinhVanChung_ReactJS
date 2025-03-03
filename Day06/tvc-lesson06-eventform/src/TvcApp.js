@@ -4,6 +4,9 @@ import TvcEventForm2 from './components/TvcEventForm2';
 import TvcEventForm3 from './components/TvcEventForm3';
 import TvcEventForm4 from './components/TvcEventForm4';
 import TvcEventForm5 from './components/TvcEventForm5';
+import TvcRenderCondition from './components/TvcRenderCondition';
+import TvcRenderArray from './components/TvcRenderArray';
+import TvcRenderListObject from './components/TvcRenderListObject';
 
 class TvcApp extends Component {
 
@@ -24,6 +27,11 @@ class TvcApp extends Component {
           <TvcEventForm3 />
           <TvcEventForm4 />
           <TvcEventForm5 onTvcHandleSubmit={this.tvcHandleSubmitForm}/>
+
+          <TvcRenderCondition />
+          <TvcRenderArray />
+
+          <TvcRenderListObject />
       </div>
     );
   }
