@@ -10,6 +10,9 @@ class TvcApp extends Component {
       tvcStudents:[
         {tvcId:"SV001",tvcStudentName:"Trịnh Văn Chung",tvcAge:46,tvcGender:"Nam",tvcBirthday:"25/05/1979",tvcBirthPlace:"HN", tvcAddress:"Tòa VCN, 25 Vũ Ngọc Phan"},
         {tvcId:"SV002",tvcStudentName:"Chu Nguyên Chương",tvcAge:188,tvcGender:"Nữ",tvcBirthday:"25/05/1179",tvcBirthPlace:"HP", tvcAddress:"Trung quốc"},
+        {tvcId:"SV002",tvcStudentName:"Chu Nguyên Chương",tvcAge:188,tvcGender:"Nữ",tvcBirthday:"25/05/1179",tvcBirthPlace:"HP", tvcAddress:"Trung quốc"},
+        {tvcId:"SV002",tvcStudentName:"Chu Nguyên Chương",tvcAge:188,tvcGender:"Nữ",tvcBirthday:"25/05/1179",tvcBirthPlace:"HP", tvcAddress:"Trung quốc"},
+        {tvcId:"SV002",tvcStudentName:"Chu Nguyên Chương",tvcAge:188,tvcGender:"Nữ",tvcBirthday:"25/05/1179",tvcBirthPlace:"HP", tvcAddress:"Trung quốc"},
         {tvcId:"SV003",tvcStudentName:"Tần Thủy Hoàng",tvcAge:55,tvcGender:"Nam",tvcBirthday:"25/05/1079",tvcBirthPlace:"TpHCM", tvcAddress:"Trung Quốc"},
         {tvcId:"SV004",tvcStudentName:"Hoàng Thùy Linh",tvcAge:55,tvcGender:"Nam",tvcBirthday:"25/05/1079",tvcBirthPlace:"TpHCM", tvcAddress:"Hồ chí minh"},
       ],
